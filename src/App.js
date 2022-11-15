@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Added radio button
+      Added radio butto
     </div>
   );
 }
